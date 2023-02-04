@@ -1,0 +1,14 @@
+1. gitbash
+pwd = product work directory
+cd documents
+
+steps
+
+mkdir fcb-portfolio (make directory)
+
+touch = pang gawa ng files
+touch index.html index.css
+
+ctrl + dash = comment shortcut
+
+section same ng div
